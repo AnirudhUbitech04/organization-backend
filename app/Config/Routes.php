@@ -9,7 +9,10 @@ $routes->get('/', 'Home::index');
 $routes->get('api/modules', 'ModuleController::index');
 $routes->get('api/auth', 'Auth::index');       // GET all organizations
 $routes->post('api/login', 'Auth::login');    // POST login
-$routes->options('(:any)', 'Auth::options'); 
+$routes->options('(:any)', 'Auth::options');
+$routes->post('api/logout/(:num)', 'Auth::logout/$1');
+$routes->options('api/logout/(:num)', 'Auth::options/$1'); // For CORS preflight
+
 $routes->get('api/countries', 'Location::countries');
 $routes->get('api/states/(:num)', 'Location::states/$1');
 $routes->get('api/cities/(:num)', 'Location::cities/$1'); // catch-all for OPTIONS
@@ -34,6 +37,13 @@ $routes->group('employee', function($routes) {
     // Optional test route
     $routes->get('test', 'Employee::test');
 });
+$routes->group('todo', function($routes) {
+    $routes->get('', 'Todo::index');
+    $routes->post('create', 'Todo::create');
+    $routes->post('update/(:num)', 'Todo::update/$1');
+    $routes->get('status-summary', 'Todo::statusSummary');
+});
+
 
 
 

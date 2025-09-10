@@ -128,3 +128,523 @@ in SYSTEMPATH\Router\Router.php on line 741.
  5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
  6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
  7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 08:06:52 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 08:06:53 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 08:06:56 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 08:06:56 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 08:11:02 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:05:40 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:05:41 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:07:57 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:07:58 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:07:58 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:07:59 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:19:09 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:19:10 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:19:41 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:19:43 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:19:43 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:19:44 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:19:44 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:19:45 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:20:01 --> ErrorException: Undefined array key "fullname"
+[Method: POST, Route: employee/insert]
+in APPPATH\Controllers\employee.php on line 39.
+ 1 APPPATH\Controllers\employee.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\employee.php', 39)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 09:50:33 --> mysqli_sql_exception: Table 'orgdb.todo_list' doesn't exist in C:\xampp\htdocs\codelApi\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\codelApi\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\codelApi\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\codelApi\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\codelApi\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\codelApi\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codelApi\system\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\codelApi\app\Models\TodoModel.php(15): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\codelApi\app\Controllers\Todo.php(12): App\Models\TodoModel->getFiltered(NULL)
+#8 C:\xampp\htdocs\codelApi\system\CodeIgniter.php(933): App\Controllers\Todo->index()
+#9 C:\xampp\htdocs\codelApi\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+#10 C:\xampp\htdocs\codelApi\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\codelApi\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\codelApi\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\codelApi\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-09-09 09:50:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'orgdb.todo_list' doesn't exist
+[Method: GET, Route: todo]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `todo_list`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\TodoModel.php(15): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Todo.php(12): App\Models\TodoModel->getFiltered(null)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:50:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'orgdb.todo_list' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `todo_list`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `todo_list`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `todo_list`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\TodoModel.php(15): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Todo.php(12): App\Models\TodoModel->getFiltered(null)
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:50:33 --> [Caused by] mysqli_sql_exception: Table 'orgdb.todo_list' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `todo_list`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `todo_list`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `todo_list`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `todo_list`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\TodoModel.php(15): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Todo.php(12): App\Models\TodoModel->getFiltered(null)
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->index()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:54:14 --> ErrorException: Undefined array key "task"
+[Method: POST, Route: todo/create]
+in APPPATH\Controllers\Todo.php on line 19.
+ 1 APPPATH\Controllers\Todo.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "task"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\Todo.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 09:54:16 --> ErrorException: Undefined array key "task"
+[Method: POST, Route: todo/create]
+in APPPATH\Controllers\Todo.php on line 19.
+ 1 APPPATH\Controllers\Todo.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "task"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\Todo.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 10:00:27 --> ErrorException: Undefined array key "task"
+[Method: POST, Route: todo/create]
+in APPPATH\Controllers\Todo.php on line 19.
+ 1 APPPATH\Controllers\Todo.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "task"', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\Todo.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 10:51:26 --> ErrorException: Undefined property: App\Controllers\Todo::$db
+[Method: GET, Route: todo/status-summary]
+in APPPATH\Controllers\Todo.php on line 50.
+ 1 APPPATH\Controllers\Todo.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Todo::$db', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\Todo.php', 50)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 10:52:10 --> ErrorException: Undefined property: App\Controllers\Todo::$db
+[Method: GET, Route: todo/status-summary]
+in APPPATH\Controllers\Todo.php on line 50.
+ 1 APPPATH\Controllers\Todo.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Todo::$db', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\Todo.php', 50)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 10:52:18 --> ErrorException: Undefined property: App\Controllers\Todo::$db
+[Method: GET, Route: todo/status-summary]
+in APPPATH\Controllers\Todo.php on line 50.
+ 1 APPPATH\Controllers\Todo.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Todo::$db', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\Todo.php', 50)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 10:52:48 --> ErrorException: Undefined property: App\Controllers\Todo::$db
+[Method: GET, Route: todo/status-summary]
+in APPPATH\Controllers\Todo.php on line 50.
+ 1 APPPATH\Controllers\Todo.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Todo::$db', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\Todo.php', 50)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 10:52:50 --> ErrorException: Undefined property: App\Controllers\Todo::$db
+[Method: GET, Route: todo/status-summary]
+in APPPATH\Controllers\Todo.php on line 50.
+ 1 APPPATH\Controllers\Todo.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Todo::$db', 'C:\\xampp\\htdocs\\codelApi\\app\\Controllers\\Todo.php', 50)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-09-09 10:54:52 --> mysqli_sql_exception: Table 'orgdb.todo-list' doesn't exist in C:\xampp\htdocs\codelApi\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\codelApi\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `status`...', 0)
+#1 C:\xampp\htdocs\codelApi\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `status`...')
+#2 C:\xampp\htdocs\codelApi\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `status`...')
+#3 C:\xampp\htdocs\codelApi\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `status`...', Array, false)
+#4 C:\xampp\htdocs\codelApi\app\Controllers\Todo.php(54): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codelApi\system\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+#6 C:\xampp\htdocs\codelApi\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+#7 C:\xampp\htdocs\codelApi\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codelApi\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codelApi\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\codelApi\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2025-09-09 10:54:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'orgdb.todo-list' doesn't exist
+[Method: GET, Route: todo/status-summary]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `status`, COUNT(*) as count
+FROM `todo-list`
+GROUP BY `status`', [], false)
+ 2 APPPATH\Controllers\Todo.php(54): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 10:54:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'orgdb.todo-list' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `status`, COUNT(*) as count
+FROM `todo-list`
+GROUP BY `status`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `status`, COUNT(*) as count
+FROM `todo-list`
+GROUP BY `status`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `status`, COUNT(*) as count
+FROM `todo-list`
+GROUP BY `status`', [], false)
+ 4 APPPATH\Controllers\Todo.php(54): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 10:54:52 --> [Caused by] mysqli_sql_exception: Table 'orgdb.todo-list' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `status`, COUNT(*) as count
+FROM `todo-list`
+GROUP BY `status`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `status`, COUNT(*) as count
+FROM `todo-list`
+GROUP BY `status`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `status`, COUNT(*) as count
+FROM `todo-list`
+GROUP BY `status`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `status`, COUNT(*) as count
+FROM `todo-list`
+GROUP BY `status`', [], false)
+ 5 APPPATH\Controllers\Todo.php(54): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Todo->statusSummary()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Todo))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 11:19:26 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: api/login]
+in SYSTEMPATH\BaseModel.php on line 1008.
+ 1 SYSTEMPATH\BaseModel.php(1008): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Auth.php(42): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 11:26:20 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: api/login]
+in SYSTEMPATH\BaseModel.php on line 1008.
+ 1 SYSTEMPATH\BaseModel.php(1008): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Auth.php(42): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 11:46:11 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: api/login]
+in SYSTEMPATH\BaseModel.php on line 1008.
+ 1 SYSTEMPATH\BaseModel.php(1008): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Auth.php(39): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 11:51:19 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: api/login]
+in SYSTEMPATH\BaseModel.php on line 1008.
+ 1 SYSTEMPATH\BaseModel.php(1008): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Auth.php(39): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 11:51:30 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: api/login]
+in SYSTEMPATH\BaseModel.php on line 1008.
+ 1 SYSTEMPATH\BaseModel.php(1008): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Auth.php(39): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 11:56:59 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: api/login]
+in SYSTEMPATH\BaseModel.php on line 1008.
+ 1 SYSTEMPATH\BaseModel.php(1008): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Auth.php(39): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 12:02:59 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: api/login]
+in SYSTEMPATH\BaseModel.php on line 1008.
+ 1 SYSTEMPATH\BaseModel.php(1008): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Auth.php(47): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 12:04:51 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: POST, Route: api/login]
+in SYSTEMPATH\BaseModel.php on line 1008.
+ 1 SYSTEMPATH\BaseModel.php(1008): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update([...], [])
+ 3 APPPATH\Controllers\Auth.php(45): CodeIgniter\Model->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-09 12:18:22 --> ErrorException: Cannot redeclare App\Controllers\Auth::options()
+[Method: OPTIONS, Route: api/logout/1]
+in APPPATH\Controllers\Auth.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-09-09 12:20:18 --> ErrorException: Cannot redeclare App\Controllers\Auth::options()
+[Method: OPTIONS, Route: api/logout/1]
+in APPPATH\Controllers\Auth.php on line 75.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
