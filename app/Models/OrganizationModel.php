@@ -6,7 +6,7 @@ use CodeIgniter\Model;
 
 class OrganizationModel extends Model
 {
-    protected $table      = 'organization';
+    protected $table      = 'organizations';
     protected $primaryKey = 'id';
 
     protected $allowedFields = ['org_name', 'email', 'password', 'created_date',  'login_time', 'logout_time'];
